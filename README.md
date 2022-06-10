@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ### :bulb: About me:
-<h1 align="center">Hi, I'M YASAS RAMOD THILAKARATHNE :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
+<h1 align="center">Hi, I'M Yasas Ramod Thilakarathne :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fViIKThCQl9ZvRfQXT/giphy.gif" width = "500" height = "400"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width = "500" height = "400"/>
 </div>
 
 ### :bulb: About me:
