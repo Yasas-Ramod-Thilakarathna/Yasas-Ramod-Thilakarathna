@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ### :bulb: About me:
 <h1 align="center">Hi, I'm Yasas Ramod :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width = "500" height = "400"/>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width = "500" height = "400"/>
 </div>
 
 ### :bulb: About me:
@@ -44,6 +44,6 @@ You can click the Preview link to take a look at your changes.
    <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Shehani Hettiarachchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasas-Ramod-Thilakarathne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>  
 <div>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Yasas-Ramod-Thilakarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasas-Ramod-Thilakarathne&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> 
-  <!--<a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-activity-graph"><img alt="Yasas-Ramod-Thilakarathne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yasas-Ramod-Thilakarathne&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+  <!--<a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Yasas-Ramod-Thilakarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasas-Ramod-Thilakarathne&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
+  <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-activity-graph"><img alt="Yasas-Ramod-Thilakarathne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yasas-Ramod-Thilakarathne&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>  
