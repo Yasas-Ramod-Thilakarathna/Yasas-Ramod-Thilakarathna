@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ### :bulb: About me:
 <h1 align="center">Hi, I'm Yasas Ramod :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
-  ![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
+  <a href="https://drive.google.com/uc?export=view&id=<FILEID>"><img src="https://drive.google.com/uc?export=view&id=1AYqZtAMW0NsVh6yNefA81rtjt01RFb6m" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 </div>
 
 ### :bulb: About me:
