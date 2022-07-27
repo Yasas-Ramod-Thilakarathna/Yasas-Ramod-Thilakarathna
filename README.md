@@ -4,8 +4,6 @@ Yasas-Ramod-Thilakarathne/Yasas-Ramod-Thilakarathne is a ✨ special ✨ reposit
 You can click the Preview link to take a look at your changes.
 --->
 
-
-### :bulb: About me:
 <h1 align="center">Hi, I'm Yasas Ramod :man:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="20px"></h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width = "500" height = "400"/>
