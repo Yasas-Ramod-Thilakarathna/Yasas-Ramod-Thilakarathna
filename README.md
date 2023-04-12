@@ -1,6 +1,6 @@
 
 <!---
-Yasas-Ramod-Thilakarathne/Yasas-Ramod-Thilakarathne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yasas-Ramod-Thilakarathna/Yasas-Ramod-Thilakarathna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :bulb: About me:
 
-- 👋 Hi, I’m **@Yasas-Ramod-Thilakarathne**
+- 👋 Hi, I’m **@Yasas-Ramod-Thilakarathna**
 - 🔭 I’m Undergraduate at **SLIIT | Srilankan Institute Of Information Technology**.
 - 👨‍💻 following **BSc (Hons) in Information Technology Specialising in Software Engineering** Degree
 - 👀 I’m Passionate about Mobile Application Development
@@ -37,11 +37,11 @@ You can click the Preview link to take a look at your changes.
 
 ### :fire: My Stats :
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yasas-Ramod-Thilakarathne&theme=dark&background=000000)](https://git.io/streak-stats)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yasas-Ramod-Thilakarathna&theme=dark&background=000000)](https://git.io/streak-stats)
 <div>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
-   <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Shehani Hettiarachchi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasas-Ramod-Thilakarathne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Yasas Ramod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasas-Ramod-Thilakarathna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>  
 <div>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
-  <!--<a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Yasas-Ramod-Thilakarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasas-Ramod-Thilakarathne&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
-  <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-activity-graph"><img alt="Yasas-Ramod-Thilakarathne's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yasas-Ramod-Thilakarathne&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <!--<a href="https://github.com/Yasas-Ramod-Thilakarathna/github-readme-stats"><img alt="Yasas-Ramod-Thilakarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasas-Ramod-Thilakarathna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
+  <a href="https://github.com/Yasas-Ramod-Thilakarathna/github-readme-activity-graph"><img alt="Yasas-Ramod-Thilakarathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yasas-Ramod-Thilakarathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>  
