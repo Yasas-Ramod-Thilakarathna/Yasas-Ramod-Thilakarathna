@@ -41,7 +41,3 @@ You can click the Preview link to take a look at your changes.
 <div>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
    <a href="https://github.com/Yasas-Ramod-Thilakarathne/github-readme-stats"><img alt="Yasas Ramod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasas-Ramod-Thilakarathna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>  
-<div>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; 
-  <!--<a href="https://github.com/Yasas-Ramod-Thilakarathna/github-readme-stats"><img alt="Yasas-Ramod-Thilakarathne's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasas-Ramod-Thilakarathna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"  /></a> -->
-  <a href="https://github.com/Yasas-Ramod-Thilakarathna/github-readme-activity-graph"><img alt="Yasas-Ramod-Thilakarathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yasas-Ramod-Thilakarathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</div>  
